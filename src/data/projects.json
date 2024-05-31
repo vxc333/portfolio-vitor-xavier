@@ -1,0 +1,170 @@
+[
+    {
+        "projectName": "7daysofcode",
+        "image": "landingpage.png",
+        "description": "Landing page developed during the 7 Days Of Code.",
+        "technology": "HTML",
+        "link": ""
+    },
+    {
+        "projectName": "alura-books",
+        "image": "alurabooks.png",
+        "description": "Landing page developed in the Alura HTML and CSS course.",
+        "technology": "HTML",
+        "link": ""
+    },
+    {
+        "projectName": "blockchain-page",
+        "image": "blockchain-page.png",
+        "description": "Landing page developed based on Figma design.",
+        "technology": "HTML",
+        "link": ""
+    },
+    {
+        "projectName": "formulario-dark-light",
+        "image": "formulario.png",
+        "description": "Form that changes theme with DOM manipulation.",
+        "technology": "Javascript",
+        "link": ""
+    },
+    {
+        "projectName": "api-clima",
+        "image": "clima.png",
+        "description": "Application that queries the Open Weather and Unsplash APIs.",
+        "technology": "Javascript",
+        "link": ""
+    },
+    {
+        "projectName": "api-filmes",
+        "image": "filmes.png",
+        "description": "Application that queries The Movie Database API.",
+        "technology": "Javascript",
+        "link": ""
+    },
+    {
+        "projectName": "codechella",
+        "image": "codechella.png",
+        "description": "Landing page for a fake music festival.",
+        "technology": "React",
+        "link": ""
+    },
+    {
+        "projectName": "banco-bet",
+        "image": "adm_conta.png",
+        "description": "Account management and Pix transfer system.",
+        "technology": "React",
+        "link": ""
+      },
+      {
+        "projectName": "photographer-page",
+        "image": "photographer-page.png",
+        "description": "Landing page for a professional photographer.",
+        "technology": "React",
+        "link": ""
+      },
+    {
+        "projectName": "aluroni",
+        "image": "restaurante.png",
+        "description": "Promotional page for a restaurant with TypeScript.",
+        "technology": "React",
+        "link": ""
+    },
+    {
+        "projectName": "voll",
+        "image": "voll.png",
+        "description": "React web application with registration, login, and dashboard.",
+        "technology": "React",
+        "link": ""
+    },
+    {
+        "projectName": "biblioteca-mobile",
+        "image": "biblioteca.png",
+        "description": "React Native mobile application with registration, login, and CRUD operations.",
+        "technology": "React",
+        "link": ""
+    },
+    {
+        "projectName": "weather-runner",
+        "image": "weather-runner.png",
+        "description": "Game and app in React Native with conditional styling based on weather.",
+        "technology": "React",
+        "link": ""
+    },
+    {
+        "projectName": "capital-water",
+        "image": "agua-capital.png",
+        "description": "App showing Brasília reservoir water levels.",
+        "technology": "Next",
+        "link": ""
+    },
+    {
+        "projectName": "de-olho",
+        "image": "deolho.png",
+        "description": "College project consuming the Open Data API.",
+        "technology": "Next",
+        "link": ""
+    },
+    {
+        "projectName": "jornada-do-heroi",
+        "image": "jornada.png",
+        "description": "Application querying external API and creating a card game.",
+        "technology": "Next",
+        "link": ""
+    },
+    {
+        "projectName": "ponto-de-venda",
+        "image": "pdv.png",
+        "description": "Prototype of a point of sale for an academic extension project.",
+        "technology": "Next",
+        "link": ""
+    },
+    {
+        "projectName": "portfolio",
+        "image": "portfolio.png",
+        "description": "Personal portfolio developed with Next and TypeScript.",
+        "technology": "Next",
+        "link": ""
+    },
+    {
+        "projectName": "google-sheets",
+        "image": "sheets.png",
+        "description": "Script to extract online table, process it, and upload it to Sheets.",
+        "technology": "Python",
+        "link": ""
+    },
+    {
+        "projectName": "siafi-pandas",
+        "image": "pandas.png",
+        "description": "Script for processing Excel table with Pandas.",
+        "technology": "Python",
+        "link": ""
+    },
+    {
+        "projectName": "adonis-academico",
+        "image": "adonis-academico.png",
+        "description": "API created with AdonisJS in the college Backend subject.",
+        "technology": "Adonis",
+        "link": ""
+    },
+    {
+        "projectName": "adonis-biblioteca",
+        "image": "adonis-biblioteca.png",
+        "description": "API created for the college backend integrated project.",
+        "technology": "Adonis",
+        "link": ""
+    },
+    {
+        "projectName": "api-voll",
+        "image": "api_voll.png",
+        "description": "API for a clinic created using Spring Boot.",
+        "technology": "Java",
+        "link": ""
+    },
+    {
+        "projectName": "LiterAlura",
+        "image": "spring.png",
+        "description": "Spring application that consumes an external API.",
+        "technology": "Java",
+        "link": ""
+    }
+]

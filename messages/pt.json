@@ -1,0 +1,54 @@
+{
+    "Home": {
+      "title": "Desenvolvedor full-stack",
+      "greeting": "Olá! Eu sou ",
+      "emailTitle": "meu e-mail",
+      "emailName": "meuEmail",
+      "gitHubTitle": "você pode também conferir meu GitHub",
+      "linkedinTitle": "você pode também conferir meu Linkedin"
+    },
+    "About": {
+      "folderTitle": "informações",
+      "bioSubFolder": "sobre-mim",
+      "bioSubFolder2": "experiência",
+      "interestsFolder": "interesses",
+      "interestsSubFolder": "",
+      "educationFolder": "educação",
+      "educationSubFolder": "universidade",
+      "contact": "contatos",
+      "technologiesTitle": "linguagens e tecnologias",
+      "technologiesSpan": "Criado há 2 meses",
+      "about-me": "sobre-mim",
+      "experience": "experiencia",
+      "university": "universidade"
+    },
+    "Contact": {
+      "folderTitle": "contato",
+      "subFolderTitle": "enviar",
+      "inputName": "nome",
+      "inputMessage": "mensagem",
+      "button": "enviar-mensagem",
+      "nameError": "campo nome é obrigatório!",
+      "nameValidError": "insira um nome válido!",
+      "emailError": "campo email é obrigatório!",
+      "emailValidError": "insira um email válido!",
+      "messageError": "insira uma mensagem!",
+      "messageValidError": "insira uma messagem válida!",
+      "captchaError": "preencha o captcha corretamente!",
+      "thank": "Obrigado!",
+      "messageEmailSent": "O e-mail foi enviado. Você receberá uma resposta em breve.",
+      "lang": "pt"
+  },
+  "Projects": {
+      "projects": "pt"
+  },
+  "Footer": {
+      "text": "encontre-me em:"
+  },
+  "Menu": {
+    "hello": "olá",
+    "about": "sobre-mim",
+    "projects": "projetos",
+    "contact": "contato"
+  }
+}
