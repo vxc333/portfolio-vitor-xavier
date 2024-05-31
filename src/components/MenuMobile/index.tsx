@@ -62,7 +62,7 @@ const MenuMobile = ({$menuIsVisible, setMenuIsVisible}: Props) => {
     <Container isvisible={$menuIsVisible ? 'true' : 'false'} >
         <PrimeiraParte>
             <DivNome>
-            davi-costa
+            vitor-xavier
             </DivNome>
             <Image src={closeIcon} width={16} height={16} alt='Close icon' onClick={() => setMenuIsVisible(false)} /> 
         </PrimeiraParte>
