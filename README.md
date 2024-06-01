@@ -18,6 +18,3 @@ Design inspirado em uma IDE, pois amo tudo que envolve tecnologia.
 - React-google-recaptcha
 - Next Intl
 
-![image](https://github.com/davimcostaa/portfolio/assets/92067624/6160d9b2-93db-4cf2-abf6-17477e3004a5)
-
-🔗 [Acesse](https://portfolio-ten-xi-79.vercel.app/en)
