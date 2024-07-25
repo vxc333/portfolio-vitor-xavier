@@ -1,6 +1,6 @@
 # Portfólio 
 
-Bem-vindo ao meu portfólio! Explore meus projetos em tecnologias modernas como React e Python. 
+Bem-vindo ao meu portfólio! Explore meus projetos em tecnologias modernas como React e Node. 
 Design inspirado em uma IDE, pois amo tudo que envolve tecnologia.
 
 ## Linguagens e tecnologias
