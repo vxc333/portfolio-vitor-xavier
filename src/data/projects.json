@@ -4,167 +4,167 @@
         "image": "landingpage.png",
         "description": "Landing page developed during the 7 Days Of Code.",
         "technology": "HTML",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "alura-books",
         "image": "alurabooks.png",
         "description": "Landing page developed in the Alura HTML and CSS course.",
         "technology": "HTML",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "blockchain-page",
         "image": "blockchain-page.png",
         "description": "Landing page developed based on Figma design.",
         "technology": "HTML",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "formulario-dark-light",
         "image": "formulario.png",
         "description": "Form that changes theme with DOM manipulation.",
         "technology": "Javascript",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "api-clima",
         "image": "clima.png",
         "description": "Application that queries the Open Weather and Unsplash APIs.",
         "technology": "Javascript",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "api-filmes",
         "image": "filmes.png",
         "description": "Application that queries The Movie Database API.",
         "technology": "Javascript",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "codechella",
         "image": "codechella.png",
         "description": "Landing page for a fake music festival.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "banco-bet",
         "image": "adm_conta.png",
         "description": "Account management and Pix transfer system.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
       },
       {
         "projectName": "photographer-page",
         "image": "photographer-page.png",
         "description": "Landing page for a professional photographer.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
       },
     {
         "projectName": "aluroni",
         "image": "restaurante.png",
         "description": "Promotional page for a restaurant with TypeScript.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "voll",
         "image": "voll.png",
         "description": "React web application with registration, login, and dashboard.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "biblioteca-mobile",
         "image": "biblioteca.png",
         "description": "React Native mobile application with registration, login, and CRUD operations.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "weather-runner",
         "image": "weather-runner.png",
         "description": "Game and app in React Native with conditional styling based on weather.",
         "technology": "React",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "capital-water",
         "image": "agua-capital.png",
         "description": "App showing Brasília reservoir water levels.",
         "technology": "Next",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "de-olho",
         "image": "deolho.png",
         "description": "College project consuming the Open Data API.",
         "technology": "Next",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "jornada-do-heroi",
         "image": "jornada.png",
         "description": "Application querying external API and creating a card game.",
         "technology": "Next",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "ponto-de-venda",
         "image": "pdv.png",
         "description": "Prototype of a point of sale for an academic extension project.",
         "technology": "Next",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "portfolio",
         "image": "portfolio.png",
         "description": "Personal portfolio developed with Next and TypeScript.",
         "technology": "Next",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "google-sheets",
         "image": "sheets.png",
         "description": "Script to extract online table, process it, and upload it to Sheets.",
         "technology": "Python",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "siafi-pandas",
         "image": "pandas.png",
         "description": "Script for processing Excel table with Pandas.",
         "technology": "Python",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "adonis-academico",
         "image": "adonis-academico.png",
         "description": "API created with AdonisJS in the college Backend subject.",
         "technology": "Adonis",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "adonis-biblioteca",
         "image": "adonis-biblioteca.png",
         "description": "API created for the college backend integrated project.",
         "technology": "Adonis",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "api-voll",
         "image": "api_voll.png",
         "description": "API for a clinic created using Spring Boot.",
         "technology": "Java",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     },
     {
         "projectName": "LiterAlura",
         "image": "spring.png",
         "description": "Spring application that consumes an external API.",
         "technology": "Java",
-        "link": ""
+        "link": "https://github.com/vxc333?tab=repositories"
     }
 ]

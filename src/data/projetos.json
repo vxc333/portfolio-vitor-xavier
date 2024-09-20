@@ -4,167 +4,167 @@
     "image": "landingpage.png",
     "description": "Landing page desenvolvida no 7 days Of Code.",
     "technology": "HTML",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
       "projectName": "alura-books",
       "image": "alurabooks.png",
       "description": "Landing page desenvolvida no curso de HTML e CSS da Alura.",
       "technology": "HTML",
-      "link": ""
+      "link": "https://github.com/vxc333?tab=repositories"
   },
   {
       "projectName": "blockchain-page",
       "image": "blockchain-page.png",
       "description": "Landing page desenvolvida segundo design do Figma.",
       "technology": "HTML",
-      "link": ""
+      "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "formulario-dark-light",
     "image": "formulario.png",
     "description": "Formulário que muda de tema com a manipulação do DOM.",
     "technology": "Javascript",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "api-clima",
     "image": "clima.png",
     "description": "Aplicação que consulta a API do Open Weather e do Unsplash.",
     "technology": "Javascript",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
       "projectName": "api-filmes",
       "image": "filmes.png",
       "description": "Aplicação que consulta a API do The Movie Database.",
       "technology": "Javascript",
-      "link": ""
+      "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "codechella",
     "image": "codechella.png",
     "description": "Landing page de um festival de música.",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "banco-bet",
     "image": "adm_conta.png",
     "description": "Sistema de administração de contas e transferência Pix.",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "photographer-page",
     "image": "photographer-page.png",
     "description": "Landing page para um profissional de fotografia",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "aluroni",
     "image": "restaurante.png",
     "description": "Página de divulgação de um restaurante com TypeScript.",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "voll",
     "image": "voll.png",
     "description": "Aplicação web em React com cadastro, login e dashboard.",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "biblioteca-mobile",
     "image": "biblioteca.png",
     "description": "Aplicação mobile em React Native com cadastro, login e CRUDs.",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "weather-runner",
     "image": "weather-runner.png",
     "description": "Jogo e app em React Native com estilo condicional ao clima. ",
     "technology": "React",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "agua-capital",
     "image": "agua-capital.png",
     "description": "App de níveis de água em reservatórios de Brasília.",
     "technology": "Next",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
 },
   {
     "projectName": "de-olho",
     "image": "deolho.png",
     "description": "Projeto da faculdade consumindo a API dos Dados Abertos.",
     "technology": "Next",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "jornada-do-heroi",
     "image": "jornada.png",
     "description": "Aplicação consultando API externa e criando um jogo de cartas.",
     "technology": "Next",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "ponto-de-venda",
     "image": "pdv.png",
     "description": "Protótipo de um ponto de venda por um projeto de extensão acadêmico.",
     "technology": "Next",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "portfolio",
     "image": "portfolio.png",
     "description": "Portfólio pessoal desenvolvido com Next e TypeScript.",
     "technology": "Next",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "google-sheets",
     "image": "sheets.png",
     "description": "Script para extrair tabela online, tratá-la e lançar no Sheets.",
     "technology": "Python",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "siafi-pandas",
     "image": "pandas.png",
     "description": "Script para tratamento de tabela excel.",
     "technology": "Python",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "adonis-academico",
     "image": "adonis-academico.png",
     "description": "API criada com AdonisJS na matéria de BackEnd da faculdade.",
     "technology": "Adonis",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "adonis-biblioteca",
     "image": "adonis-biblioteca.png",
     "description": "API criada para o projeto integrado de backend da faculdade.",
     "technology": "Adonis",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "api-voll",
     "image": "api_voll.png",
     "description": "API de uma clínica criada com Spring Boot.",
     "technology": "Java",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
   },
   {
     "projectName": "LiterAlura",
     "image": "spring.png",
     "description": "Aplicação Spring que consome uma API externa.",
     "technology": "Java",
-    "link": ""
+    "link": "https://github.com/vxc333?tab=repositories"
 }
 ]
